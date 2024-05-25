@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tasks.h": "c",
+        "tasks_queue.h": "c"
+    }
+}
